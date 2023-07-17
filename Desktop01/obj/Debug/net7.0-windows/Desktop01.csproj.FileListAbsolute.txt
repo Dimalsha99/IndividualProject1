@@ -1,0 +1,189 @@
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.AssemblyReference.cache
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.cache
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.lref
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.exe
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.deps.json
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.runtimeconfig.json
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.dll
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.pdb
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\App.baml
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.baml
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.g.resources
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfoInputs.cache
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfo.cs
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CoreCompileInputs.cache
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CopyComplete
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.dll
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\refint\Desktop01.dll
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.pdb
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.genruntimeconfig.cache
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\ref\Desktop01.dll
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.exe
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.deps.json
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.runtimeconfig.json
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.dll
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.pdb
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.AssemblyReference.cache
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\App.g.cs
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.cache
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.lref
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\App.baml
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.baml
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\MainWindow.baml
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.g.resources
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.GeneratedMSBuildEditorConfig.editorconfig
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfoInputs.cache
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfo.cs
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CoreCompileInputs.cache
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CopyComplete
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.dll
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\refint\Desktop01.dll
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.pdb
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.genruntimeconfig.cache
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\ref\Desktop01.dll
+D:\Sem 3\project GUI\indi project\4054_CA_GUI\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.exe
+D:\Sem 3\project GUI\indi project\4054_CA_GUI\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.deps.json
+D:\Sem 3\project GUI\indi project\4054_CA_GUI\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.runtimeconfig.json
+D:\Sem 3\project GUI\indi project\4054_CA_GUI\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.dll
+D:\Sem 3\project GUI\indi project\4054_CA_GUI\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.pdb
+D:\Sem 3\project GUI\indi project\4054_CA_GUI\Desktop01\Desktop01\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+D:\Sem 3\project GUI\indi project\4054_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.AssemblyReference.cache
+D:\Sem 3\project GUI\indi project\4054_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+D:\Sem 3\project GUI\indi project\4054_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\Sem 3\project GUI\indi project\4054_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\App.g.cs
+D:\Sem 3\project GUI\indi project\4054_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Sem 3\project GUI\indi project\4054_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.cache
+D:\Sem 3\project GUI\indi project\4054_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.lref
+D:\Sem 3\project GUI\indi project\4054_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\App.baml
+D:\Sem 3\project GUI\indi project\4054_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.baml
+D:\Sem 3\project GUI\indi project\4054_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\MainWindow.baml
+D:\Sem 3\project GUI\indi project\4054_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.g.resources
+D:\Sem 3\project GUI\indi project\4054_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sem 3\project GUI\indi project\4054_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfoInputs.cache
+D:\Sem 3\project GUI\indi project\4054_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfo.cs
+D:\Sem 3\project GUI\indi project\4054_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CoreCompileInputs.cache
+D:\Sem 3\project GUI\indi project\4054_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CopyComplete
+D:\Sem 3\project GUI\indi project\4054_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.dll
+D:\Sem 3\project GUI\indi project\4054_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\refint\Desktop01.dll
+D:\Sem 3\project GUI\indi project\4054_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.pdb
+D:\Sem 3\project GUI\indi project\4054_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.genruntimeconfig.cache
+D:\Sem 3\project GUI\indi project\4054_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\ref\Desktop01.dll
+D:\Sem 3\project GUI\indi project\4018_CA_GUI\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.exe
+D:\Sem 3\project GUI\indi project\4018_CA_GUI\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.deps.json
+D:\Sem 3\project GUI\indi project\4018_CA_GUI\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.runtimeconfig.json
+D:\Sem 3\project GUI\indi project\4018_CA_GUI\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.dll
+D:\Sem 3\project GUI\indi project\4018_CA_GUI\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.pdb
+D:\Sem 3\project GUI\indi project\4018_CA_GUI\Desktop01\Desktop01\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+D:\Sem 3\project GUI\indi project\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.AssemblyReference.cache
+D:\Sem 3\project GUI\indi project\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+D:\Sem 3\project GUI\indi project\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\Sem 3\project GUI\indi project\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\App.g.cs
+D:\Sem 3\project GUI\indi project\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Sem 3\project GUI\indi project\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.cache
+D:\Sem 3\project GUI\indi project\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.lref
+D:\Sem 3\project GUI\indi project\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\App.baml
+D:\Sem 3\project GUI\indi project\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.baml
+D:\Sem 3\project GUI\indi project\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\MainWindow.baml
+D:\Sem 3\project GUI\indi project\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.g.resources
+D:\Sem 3\project GUI\indi project\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sem 3\project GUI\indi project\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfoInputs.cache
+D:\Sem 3\project GUI\indi project\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfo.cs
+D:\Sem 3\project GUI\indi project\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CoreCompileInputs.cache
+D:\Sem 3\project GUI\indi project\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CopyComplete
+D:\Sem 3\project GUI\indi project\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.dll
+D:\Sem 3\project GUI\indi project\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\refint\Desktop01.dll
+D:\Sem 3\project GUI\indi project\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.pdb
+D:\Sem 3\project GUI\indi project\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.genruntimeconfig.cache
+D:\Sem 3\project GUI\indi project\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\ref\Desktop01.dll
+C:\Users\dimal\OneDrive\Desktop\GUI Project\4018_CA_GUI\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.exe
+C:\Users\dimal\OneDrive\Desktop\GUI Project\4018_CA_GUI\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.deps.json
+C:\Users\dimal\OneDrive\Desktop\GUI Project\4018_CA_GUI\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.runtimeconfig.json
+C:\Users\dimal\OneDrive\Desktop\GUI Project\4018_CA_GUI\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.dll
+C:\Users\dimal\OneDrive\Desktop\GUI Project\4018_CA_GUI\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.pdb
+C:\Users\dimal\OneDrive\Desktop\GUI Project\4018_CA_GUI\Desktop01\Desktop01\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\dimal\OneDrive\Desktop\GUI Project\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.AssemblyReference.cache
+C:\Users\dimal\OneDrive\Desktop\GUI Project\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\dimal\OneDrive\Desktop\GUI Project\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\dimal\OneDrive\Desktop\GUI Project\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.cache
+C:\Users\dimal\OneDrive\Desktop\GUI Project\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.lref
+C:\Users\dimal\OneDrive\Desktop\GUI Project\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\App.baml
+C:\Users\dimal\OneDrive\Desktop\GUI Project\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.g.resources
+C:\Users\dimal\OneDrive\Desktop\GUI Project\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimal\OneDrive\Desktop\GUI Project\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfoInputs.cache
+C:\Users\dimal\OneDrive\Desktop\GUI Project\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfo.cs
+C:\Users\dimal\OneDrive\Desktop\GUI Project\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CoreCompileInputs.cache
+C:\Users\dimal\OneDrive\Desktop\GUI Project\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CopyComplete
+C:\Users\dimal\OneDrive\Desktop\GUI Project\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.dll
+C:\Users\dimal\OneDrive\Desktop\GUI Project\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\refint\Desktop01.dll
+C:\Users\dimal\OneDrive\Desktop\GUI Project\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.pdb
+C:\Users\dimal\OneDrive\Desktop\GUI Project\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.genruntimeconfig.cache
+C:\Users\dimal\OneDrive\Desktop\GUI Project\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\ref\Desktop01.dll
+C:\Users\dimal\OneDrive\Desktop\GUI Project\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Views\AddUserWindow.g.cs
+C:\Users\dimal\OneDrive\Desktop\GUI Project\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Views\AddUserWindow.baml
+C:\Users\dimal\OneDrive\Desktop\GUI Project\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Views\MainWindow.g.cs
+C:\Users\dimal\OneDrive\Desktop\GUI Project\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Views\MainWindow.baml
+C:\Users\Dhananji\Desktop\project_final\4018_CA_GUI\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.exe
+C:\Users\Dhananji\Desktop\project_final\4018_CA_GUI\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.deps.json
+C:\Users\Dhananji\Desktop\project_final\4018_CA_GUI\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.runtimeconfig.json
+C:\Users\Dhananji\Desktop\project_final\4018_CA_GUI\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.dll
+C:\Users\Dhananji\Desktop\project_final\4018_CA_GUI\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.pdb
+C:\Users\Dhananji\Desktop\project_final\4018_CA_GUI\Desktop01\Desktop01\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Dhananji\Desktop\project_final\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.AssemblyReference.cache
+C:\Users\Dhananji\Desktop\project_final\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+C:\Users\Dhananji\Desktop\project_final\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Dhananji\Desktop\project_final\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Dhananji\Desktop\project_final\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dhananji\Desktop\project_final\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.cache
+C:\Users\Dhananji\Desktop\project_final\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.lref
+C:\Users\Dhananji\Desktop\project_final\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\App.baml
+C:\Users\Dhananji\Desktop\project_final\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.baml
+C:\Users\Dhananji\Desktop\project_final\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Dhananji\Desktop\project_final\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.g.resources
+C:\Users\Dhananji\Desktop\project_final\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dhananji\Desktop\project_final\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfoInputs.cache
+C:\Users\Dhananji\Desktop\project_final\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfo.cs
+C:\Users\Dhananji\Desktop\project_final\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CoreCompileInputs.cache
+C:\Users\Dhananji\Desktop\project_final\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CopyComplete
+C:\Users\Dhananji\Desktop\project_final\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.dll
+C:\Users\Dhananji\Desktop\project_final\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\refint\Desktop01.dll
+C:\Users\Dhananji\Desktop\project_final\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.pdb
+C:\Users\Dhananji\Desktop\project_final\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.genruntimeconfig.cache
+C:\Users\Dhananji\Desktop\project_final\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\ref\Desktop01.dll
+C:\Users\dimal\Downloads\4018_CA_GUI (2)\4018_CA_GUI\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.exe
+C:\Users\dimal\Downloads\4018_CA_GUI (2)\4018_CA_GUI\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.deps.json
+C:\Users\dimal\Downloads\4018_CA_GUI (2)\4018_CA_GUI\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.runtimeconfig.json
+C:\Users\dimal\Downloads\4018_CA_GUI (2)\4018_CA_GUI\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.dll
+C:\Users\dimal\Downloads\4018_CA_GUI (2)\4018_CA_GUI\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.pdb
+C:\Users\dimal\Downloads\4018_CA_GUI (2)\4018_CA_GUI\Desktop01\Desktop01\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\dimal\Downloads\4018_CA_GUI (2)\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.AssemblyReference.cache
+C:\Users\dimal\Downloads\4018_CA_GUI (2)\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+C:\Users\dimal\Downloads\4018_CA_GUI (2)\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\dimal\Downloads\4018_CA_GUI (2)\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\dimal\Downloads\4018_CA_GUI (2)\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\dimal\Downloads\4018_CA_GUI (2)\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.cache
+C:\Users\dimal\Downloads\4018_CA_GUI (2)\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.lref
+C:\Users\dimal\Downloads\4018_CA_GUI (2)\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\App.baml
+C:\Users\dimal\Downloads\4018_CA_GUI (2)\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.baml
+C:\Users\dimal\Downloads\4018_CA_GUI (2)\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\dimal\Downloads\4018_CA_GUI (2)\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.g.resources
+C:\Users\dimal\Downloads\4018_CA_GUI (2)\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimal\Downloads\4018_CA_GUI (2)\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfoInputs.cache
+C:\Users\dimal\Downloads\4018_CA_GUI (2)\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfo.cs
+C:\Users\dimal\Downloads\4018_CA_GUI (2)\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CoreCompileInputs.cache
+C:\Users\dimal\Downloads\4018_CA_GUI (2)\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CopyComplete
+C:\Users\dimal\Downloads\4018_CA_GUI (2)\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.dll
+C:\Users\dimal\Downloads\4018_CA_GUI (2)\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\refint\Desktop01.dll
+C:\Users\dimal\Downloads\4018_CA_GUI (2)\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.pdb
+C:\Users\dimal\Downloads\4018_CA_GUI (2)\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.genruntimeconfig.cache
+C:\Users\dimal\Downloads\4018_CA_GUI (2)\4018_CA_GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\ref\Desktop01.dll

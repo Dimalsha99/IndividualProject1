@@ -1,0 +1,61 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Image\image1.jpg" />
+    <None Remove="Image\image5.webp" />
+    <None Remove="Image\image7.jpg" />
+    <None Remove="Image\image8.jpg" />
+    <None Remove="Image\logo.jpg" />
+    <None Remove="Image\logo1.jpg" />
+    <None Remove="Image\webinar.png" />
+    <None Remove="Model\Images\1.png" />
+    <None Remove="Model\Images\10.png" />
+    <None Remove="Model\Images\2.png" />
+    <None Remove="Model\Images\3.png" />
+    <None Remove="Model\Images\3d-wallpaper-widescreen.jpg" />
+    <None Remove="Model\Images\4.png" />
+    <None Remove="Model\Images\5.png" />
+    <None Remove="Model\Images\6.png" />
+    <None Remove="Model\Images\6c6bb14fe54ac296a5cd43bd8b785e61.jpg" />
+    <None Remove="Model\Images\7.png" />
+    <None Remove="Model\Images\8.png" />
+    <None Remove="Model\Images\9.png" />
+    <None Remove="Model\Images\snowing.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CommunityToolkit.Mvvm" Version="8.2.0-preview1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Image\image1.jpg" />
+    <Resource Include="Image\image5.webp" />
+    <Resource Include="Image\image7.jpg" />
+    <Resource Include="Image\image8.jpg" />
+    <Resource Include="Image\logo.jpg" />
+    <Resource Include="Image\logo1.jpg" />
+    <Resource Include="Image\webinar.png" />
+    <Resource Include="Model\Images\1.png" />
+    <Resource Include="Model\Images\10.png" />
+    <Resource Include="Model\Images\2.png" />
+    <Resource Include="Model\Images\3.png" />
+    <Resource Include="Model\Images\4.png" />
+    <Resource Include="Model\Images\5.png" />
+    <Resource Include="Model\Images\6.png" />
+    <Resource Include="Model\Images\7.png" />
+    <Resource Include="Model\Images\8.png" />
+    <Resource Include="Model\Images\9.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Views\" />
+  </ItemGroup>
+
+</Project>
